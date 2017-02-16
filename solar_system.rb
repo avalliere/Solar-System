@@ -1,3 +1,4 @@
+#This is a solar system
 # Create Planet class with name and several other attributes
 class Planet
   attr_accessor :name, :order_from_sun, :moon_count, :diameter, :day_length, :atmosphere_contents
